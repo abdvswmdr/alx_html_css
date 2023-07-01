@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+\<!DOCTYPE html>
 <html>
   <head>
     <title>ALX DAY 2</title>
@@ -9,11 +9,5 @@
     <!-- Embedding tweet -->
     <a class="twitter-timeline" href="https://twitter.com/SproutSocial?ref_src=twsrc%5Etfw">Tweets by Sprout Social</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    
-    <!-- Link to index.html homepage -->
-    <a href="index.html">Homepage</a>
-    
-    <!-- Link to tweets.html page -->
-    <a href="tweets.html">Tweets</a>
   </body>
 </html>
